@@ -1,15 +1,16 @@
-## Hi there 👋
-
-# 👋 Hi, I'm JJ Zhang
+## 👋 Hi, I'm JJ Zhang
 
 🎓 MS in Data Science at Columbia University (in progress)  
 📊 Background in insurance, mergers & acquisitions, and consulting  
-💡 Interested in data science applications in business, risk, and decision-making  
+🔎 Actively seeking Summer 2026 Data Science / Analytics internships
+
 
 ## 🚀 Projects
 
 ### 🎬 [Movie Stocks — Changes in Entertainment Industry pre- and post-COVID Analysis](https://junjunzhang1998.github.io/movie-stocks/)
-- Compared stock performance across theaters, studios, streaming, and media firms  
+- Analyzed how COVID-19 impacted the movie industry using stock market data  
+- Compared performance across theaters, studios, streaming, and media firms  
+- Built an interactive analytics website with clear visual storytelling  
 - **Links:** [Live Site](https://junjunzhang1998.github.io/movie-stocks/) · [Repo](https://github.com/junjunzhang1998/movie-stocks)  
 - **Tools:** R, Quarto, Data Visualization
 
@@ -30,7 +31,6 @@
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/junjunzhang1998
 - LinkedIn: https://www.linkedin.com/in/junjun-zhang/
 
 
