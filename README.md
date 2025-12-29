@@ -17,7 +17,7 @@ Predicts whether a traffic crash results in **severe injury (incapacitating or f
 - Deployed an interactive Streamlit app with threshold tuning and model explanations  
 
 🔗 **Live App:** [Streamlit Demo](https://us-car-crash-prediction.streamlit.app/)  
-**Modeling Notebook:** [View Notebook](https://github.com/junjunzhang1998/us-car-crash/blob/main/notebooks/modeling.ipynb)  
+**Modeling Notebook:** [View Notebook](https://github.com/junjunzhang1998/us-car-crash/blob/main/notebooks/04_modeling.ipynb)  
 **Tools:** Python, pandas, scikit-learn, SHAP, Streamlit  
 
 ---
