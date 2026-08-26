@@ -2,7 +2,7 @@
 
 🎓 MS in Data Science at Columbia University (in progress)  
 📊 Background in insurance, mergers & acquisitions, and consulting  
-🔎 Actively seeking **Summer 2026 Data Science / Analytics internships**
+🔎 Actively seeking **full-time data science roles**
 
 ---
 
