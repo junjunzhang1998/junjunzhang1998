@@ -7,6 +7,16 @@
 ---
 
 ## Projects
+### Credit Default Risk & Vintage Survival Analysis (Machine Learning + Survival Analysis Project — fall 2026)
+Predicts loan default risk and models how credit quality evolves over the life of a loan, using ~2.9M raw LendingClub personal loan records spanning 2007–2018 originations.
+
+- Built an end-to-end credit default classifier (LightGBM vs. logistic regression baseline) on ~1M resolved loans issued 2013 or later, with cross-fitted probability calibration (CalibratedClassifierCV, 5-fold isotonic)
+- Conducted vintage/cohort survival analysis (Kaplan-Meier, Cox Proportional Hazards) across the full 2007–2018 origination history to isolate a real, maturity-adjusted decline in credit quality between 2011–2016 vintages, separating it from right-censoring artifacts
+- Deployed an interactive Streamlit dashboard with a point-in-time scoring tab returning a calibrated default probability for a hypothetical applicant, and a cohort explorer tab for comparing survival curves across loan vintage, term, and grade
+
+🔗 Live App: [Streamlit Demo](https://credit-risk-vintage-analysis.streamlit.app/)
+Repository: [GitHub Repo](https://github.com/junjunzhang1998/credit-risk-vintage-analysis)
+Tools: Python, pandas, scikit-learn, LightGBM, lifelines, Streamlit
 
 ### Severe Injury in Car Crash Prediction (Machine Learning Project- fall 2025)
 Predicts whether a traffic crash results in **severe injury (incapacitating or fatal)** using U.S. CRSS data.
