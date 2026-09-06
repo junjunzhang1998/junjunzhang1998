@@ -1,6 +1,6 @@
 ## Hi, I'm JJ Zhang
 
-🎓 MS in Data Science at Columbia University (in progress)  
+🎓 MS in Data Science at Columbia University (Dec 2026 Graduate)  
 📊 Background in insurance, mergers & acquisitions, and consulting  
 🔎 Actively seeking **full-time data science roles**
 
@@ -17,6 +17,9 @@ Predicts loan default risk and models how credit quality evolves over the life o
 🔗 **Live App:** [Streamlit Demo](https://credit-risk-vintage-analysis.streamlit.app/)  
 **Repository:** [GitHub Repo](https://github.com/junjunzhang1998/credit-risk-vintage-analysis)  
 **Tools:** Python, pandas, scikit-learn, LightGBM, lifelines, Streamlit
+
+---
+
 
 ### Severe Injury in Car Crash Prediction (Machine Learning Project- fall 2025)
 Predicts whether a traffic crash results in **severe injury (incapacitating or fatal)** using U.S. CRSS data.
