@@ -8,6 +8,23 @@
 
 ## Projects
 
+---
+
+### East Asian Food Nutrition Agent (Agentic AI Project — Fall 2026)
+
+Built and deployed an **LLM-powered nutrition assistant** focused on East Asian dishes, addressing gaps in traditional nutrition databases for mixed dishes and portion estimates.
+
+- Developed three custom tools for nutrition lookup, portion estimation, and dish-level calorie and macronutrient calculations
+- Integrated the USDA FoodData Central API with recipe-based estimates to provide nutritional ranges for common Chinese, Japanese, and Korean dishes
+- Implemented LLM tool calling and session memory to support natural-language queries, follow-up questions, and personalized portion adjustments
+- Deployed the application on Google Cloud Run with a web-based chat interface
+
+🔗 **Live App:** [Try the Nutrition Agent](https://asian-food-nutrition-agent-65139804112.us-east1.run.app/)  
+**Repository:** [GitHub Repo](https://github.com/junjunzhang1998/asian-dish-nutrition-agent)  
+**Tools:** Python, Gemini, LiteLLM, FastAPI, USDA API, Google Cloud Run
+
+---
+
 ### Severe Injury in Car Crash Prediction (Machine Learning Project- fall 2025)
 Predicts whether a traffic crash results in **severe injury (incapacitating or fatal)** using U.S. CRSS data.
 
