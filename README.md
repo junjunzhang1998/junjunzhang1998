@@ -1,12 +1,25 @@
 ## Hi, I'm JJ Zhang
 
-🎓 MS in Data Science at Columbia University (in progress)  
+🎓 MS in Data Science at Columbia University (Dec 2026 Graduate)  
 📊 Background in insurance, mergers & acquisitions, and consulting  
-🔎 Actively seeking **Summer 2026 Data Science / Analytics internships**
+🔎 Actively seeking **full-time data science roles**
 
 ---
 
 ## Projects
+### Credit Default Risk & Vintage Survival Analysis (Machine Learning + Survival Analysis Project — fall 2026)
+Predicts loan default risk and models how credit quality evolves over the life of a loan, using ~2.9M raw LendingClub personal loan records spanning 2007–2018 originations.
+
+* Built a credit default classifier (LightGBM vs. logistic regression baseline) with 5-fold cross-fitted calibration, assigning each loan a risk score for approve/review/reject decisions — AUC 0.70, KS 0.29
+* Modeled vintage/cohort survival (Kaplan-Meier curves, Cox Proportional Hazards, concordance 0.68) across 2007–2018 origination cohorts, isolating a maturity-adjusted decline in credit quality from a right-censoring artifact
+* Deployed an interactive Streamlit dashboard with a point-in-time scoring tab returning a calibrated default probability for a hypothetical applicant, and a cohort explorer tab for comparing survival curves across loan vintage, term, and grade
+
+🔗 **Live App:** [Streamlit Demo](https://credit-risk-vintage-analysis.streamlit.app/)  
+**Repository:** [GitHub Repo](https://github.com/junjunzhang1998/credit-risk-vintage-analysis)  
+**Tools:** Python, pandas, scikit-learn, LightGBM, lifelines, Streamlit
+
+---
+
 
 ---
 
