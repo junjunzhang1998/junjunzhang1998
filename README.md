@@ -8,8 +8,6 @@
 
 ## Projects
 
----
-
 ### East Asian Food Nutrition Agent (Agentic AI Project — Fall 2026)
 
 Built and deployed an **LLM-powered nutrition assistant** focused on East Asian dishes, addressing gaps in traditional nutrition databases for mixed dishes and portion estimates.
